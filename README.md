@@ -4,7 +4,7 @@ This is a name tag generator made with ReactJS. It can be updated to display new
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 
 ### Links
